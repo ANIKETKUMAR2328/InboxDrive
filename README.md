@@ -1,37 +1,37 @@
 https://inbox-drive.vercel.app/ : LiNK TO THE WORKING WEBSITE .
 
-# 📬 InboxDrive
+# InboxDrive
 
 InboxDrive is a full-stack web application that integrates Microsoft services using the Microsoft Graph API. It allows users to securely access and manage their **Outlook emails** and **OneDrive files** through a sleek, professional interface.
 
-## 🚀 Features
+## Features
 
-### ✅ Authentication
+### Authentication
 - Microsoft OAuth 2.0 Login via Azure AD
 - Secure access token handling
 
-### 📁 OneDrive Integration
+### OneDrive Integration
 - Browse OneDrive folders and files
 - Preview images and videos inline in a grid format
 - Upload files to OneDrive
 - View OneDrive storage usage with a dynamic progress bar
 
-### 📧 Outlook Mail Integration
+### Outlook Mail Integration
 - View recent Outlook emails
 - Toggle between Mail and OneDrive view
 
-### 📊 Dashboard
+### Dashboard
 - Storage usage indicator
 - Simple toggle UI for switching between services
 
-### 💎 UI/UX
+### UI/UX
 - Professional Microsoft-themed interface
 - Clean navigation and responsive design
 - Blue and white theme for a minimal, clean experience
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React.js
@@ -48,7 +48,7 @@ InboxDrive is a full-stack web application that integrates Microsoft services us
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 /InboxDrive
 ├── public/
